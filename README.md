@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Pinellas Premium LLC
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## What is Pinellas Premium LLC?
 
-In the project directory, you can run:
+Pinellas Premium LLC is the name of an actual lawn company owned by a friend of mine.
 
-### `npm start`
+Their current website can be found [here](https://www.pinellaspremium.com/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Project goals
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+My goal is not necessarily to make an exact copy, but this website should at least maintain the same functionality. The aesthetics of the site do not need to be the same.
 
-### `npm test`
+## Pages
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Home page
 
-### `npm run build`
+The home page will have some kind of carousel to showcase some of the main photos, as well as main information about the company
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### About us
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The "About Us" page has more information about the company, but also has a button that leads to a contact form. On the contact form, the user fills out their contact information. Information to contact the company resides on this page as well.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Lawn Maintenance
 
-### `npm run eject`
+This page lists their specific services. Beneath each service description is a button to order, which also leads back to the contact page.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Landscaping
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This page describes more in detail some of the auxilliary landscaping services offered.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Other services
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Extra services that didn't fit anywhere else can be found on this page.
