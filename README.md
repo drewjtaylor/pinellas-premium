@@ -33,3 +33,19 @@ This page describes more in detail some of the auxilliary landscaping services o
 ### Other services
 
 Extra services that didn't fit anywhere else can be found on this page.
+
+---
+
+## Proposed additions
+
+### Service area
+
+I would like to add a place on the website either describing their service area or showing it on a map
+
+### Testimonials
+
+On competitor websites there are often sections of testimonials. It might be beneficial to add something similar here somewhere, most likely on the home page.
+
+### Before and After gallery
+
+There are some pictures of the company's work throughout the site, but having an explicit "Before and After" section may serve to really exemplify their work.
