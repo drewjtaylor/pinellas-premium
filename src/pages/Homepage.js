@@ -1,8 +1,9 @@
-import React from 'react'
+import LawnCarousel from "../components/LawnCarousel";
+import { carouselImages } from '../demoData/carouselImages';
 
 const Homepage = () => {
   return (
-    <div>Homepage</div>
+    <LawnCarousel imageSet={carouselImages}/>
   )
 }
 
