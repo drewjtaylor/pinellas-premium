@@ -5,12 +5,12 @@ import About from './pages/About';
 import Landscaping from './pages/Landscaping';
 import LawnMaintenance from './pages/LawnMaintenance';
 import OtherServices from './pages/OtherServices';
-import Navbar from './components/Navbar';
+import Header from './components/Header';
 
 function App() {
   return (
     <div className='App'>
-        <Navbar></Navbar>
+        <Header />
         <Routes>
             <Route path='/' element={<Homepage/>}/>
             <Route path='about' element={<About/>}/>
